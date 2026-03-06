@@ -24,7 +24,7 @@ Copy this folder into your OpenClaw skills directory:
 Or clone directly:
 
 ```bash
-git clone https://github.com/<your-username>/provider-probe-public.git ~/.openclaw/skills/provider-probe-public
+git clone https://github.com/shaunsonggit/provider-probe-public.git ~/.openclaw/skills/provider-probe-public
 ```
 
 ### For Other AI Assistants
