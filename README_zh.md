@@ -28,7 +28,7 @@ Provider Probe 是一个为 [OpenClaw](https://github.com/nicepkg/openclaw) 等 
 或直接克隆：
 
 ```bash
-git clone https://github.com/<your-username>/provider-probe-public.git ~/.openclaw/skills/provider-probe-public
+git clone https://github.com/shaunsonggit/provider-probe-public.git ~/.openclaw/skills/provider-probe-public
 ```
 
 ### 其他 AI 助手
