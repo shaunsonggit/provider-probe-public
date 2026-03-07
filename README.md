@@ -6,7 +6,7 @@
 
 ## 这是什么？
 
-Provider Probe 是一个为 [OpenClaw](https://github.com/nicepkg/openclaw) 等 AI 编程助手设计的 **skill（技能）**。安装后，你的 AI 助手将能够向任何已配置的 LLM 供应商发送最简化的、零上下文的 API 请求，从而揭示供应商是否在暗中：
+Provider Probe 是一个为 [OpenClaw](https://github.com/openclaw/openclaw) 等 AI 编程助手设计的 **skill（技能）**。安装后，你的 AI 助手将能够向任何已配置的 LLM 供应商发送最简化的、零上下文的 API 请求，从而揭示供应商是否在暗中：
 
 - 🎭 **套壳换名** — 把 Claude 包装成自己的品牌模型
 - 🔐 **注入隐藏系统提示词** — 偷偷在请求中添加你看不到的 system prompt
