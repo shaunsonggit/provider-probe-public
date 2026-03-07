@@ -126,6 +126,10 @@ node scripts/probe.js --all
 - **自动脱敏** — 输出内容会自动遮蔽 API 密钥、Bearer token 等敏感信息
 - **切勿分享你的 `openclaw.json`** — 它包含你的 API 密钥
 
+## 👤 作者
+
+[@Shaun20240404](https://x.com/Shaun20240404)
+
 ## 📄 许可证
 
 MIT
