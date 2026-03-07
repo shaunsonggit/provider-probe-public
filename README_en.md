@@ -122,6 +122,10 @@ Auto-detected from the provider config `api` field; defaults to `openai-chat`.
 - **Auto-redaction** — output automatically redacts API keys, Bearer tokens, and secret patterns
 - **Do NOT share your `openclaw.json`** — it contains your API keys
 
+## 👤 Author
+
+[@Shaun20240404](https://x.com/Shaun20240404)
+
 ## 📄 License
 
 MIT
