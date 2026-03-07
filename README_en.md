@@ -6,7 +6,7 @@
 
 ## What Is This?
 
-Provider Probe is a **skill** designed for AI coding assistants like [OpenClaw](https://github.com/nicepkg/openclaw). When installed, your AI assistant gains the ability to probe any configured LLM provider with minimal, zero-context API requests — uncovering whether a provider is secretly rebranding models, injecting hidden system prompts, or adding unexpected token overhead.
+Provider Probe is a **skill** designed for AI coding assistants like [OpenClaw](https://github.com/openclaw/openclaw). When installed, your AI assistant gains the ability to probe any configured LLM provider with minimal, zero-context API requests — uncovering whether a provider is secretly rebranding models, injecting hidden system prompts, or adding unexpected token overhead.
 
 ## 🧩 Installing as a Skill
 
